@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Website (Still Developing)](https://hapnan.my.id)
 
-- 📫 How to reach me **hapnanarsad@gmail.com**
+- 📫 How to reach me [Just Mail me](mailto:hapnanarsad@gmail.com?subject=[GitHub]%20Aks%20Anything)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
