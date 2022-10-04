@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **javascript, nodejs, restfull api**
 
-- 👨‍💻 All of my projects are available at [My Website (Still Developing)](https://hapnan.my.id)
+- 👨‍💻 All of my projects are available at [My Website (Still Developing)](https://hapnanarsad.tech)
 
 - 📫 How to reach me [Just Mail me](mailto:hapnanarsad@gmail.com?subject=[GitHub]%20Aks%20Anything)
 
