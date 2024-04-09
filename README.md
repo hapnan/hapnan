@@ -12,7 +12,7 @@
 
 - 📫 How to reach me [Just Mail me](mailto:hapnanarsad@gmail.com?subject=[GitHub]%20Aks%20Anything)
 
-- if you want to support me [![](https://img.shields.io/badge/Donation-Sociabuzz-%23007bff)]([https://ci.appveyor.com/project/hapnan/chocolatey-packages](https://sociabuzz.com/hapnan))
+- if you want to support me <a href="https://twitter.com/hapnanarsad" target="blank"><img align="center" src="https://storage.sociabuzz.com/storage/landingpage/img/sociabuzz-logo.png" alt="hapnanarsad" height="30" width="120" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
