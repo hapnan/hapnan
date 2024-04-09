@@ -12,14 +12,14 @@
 
 - 📫 How to reach me [Just Mail me](mailto:hapnanarsad@gmail.com?subject=[GitHub]%20Aks%20Anything)
 
-- if you want to support me <a href="https://sociabuzz.com/hapnan/tribe" target="blank"><img align="center" src="https://storage.sociabuzz.com/storage/landingpage/img/sociabuzz-logo.png" alt="hapnanarsad" height="30" width="120" /></a>
+- if you want to support me <a href="https://sociabuzz.com/hapnan/tribe" target="_blank"><img align="center" src="https://storage.sociabuzz.com/storage/landingpage/img/sociabuzz-logo.png" alt="hapnanarsad" height="30" width="120" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hapnanarsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hapnanarsad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hapnan-arsad-riski-221759194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hapnan-arsad-riski-221759194/" height="30" width="40" /></a>
-<a href="https://fb.com/hapnan.arsadriski.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hapnan.arsadriski.9" height="30" width="40" /></a>
-<a href="https://instagram.com/hapnanss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hapnanss" height="30" width="40" /></a>
+<a href="https://twitter.com/hapnanarsad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hapnanarsad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hapnan-arsad-riski-221759194/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hapnan-arsad-riski-221759194/" height="30" width="40" /></a>
+<a href="https://fb.com/hapnan.arsadriski.9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hapnan.arsadriski.9" height="30" width="40" /></a>
+<a href="https://instagram.com/hapnanss" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hapnanss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
