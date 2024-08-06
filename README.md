@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My Website (Still Developing)](https://hapnanarsad.com)
 
-- 📫 How to reach me [Just Mail me](mailto:contact@hapnanarsad.com?subject=[GitHub]%20Aks%20Anything)
+- 📫 How to reach me [Just Mail me](mailto:contacts@hapnanarsad.com?subject=[GitHub]%20Aks%20Anything)
 
 - if you want to support me <a href="https://sociabuzz.com/hapnan/tribe" target="_blank"><img align="center" src="https://storage.sociabuzz.com/storage/landingpage/img/sociabuzz-logo.png" alt="hapnanarsad" height="30" width="120" /></a>
 
